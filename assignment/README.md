@@ -18,6 +18,7 @@ All tasks are explained in detail through a r**ecorded YouTube lecture**.
 
 ### Video Link:
 
+https://youtu.be/omfNilQyV9Q
 
 ---
 
