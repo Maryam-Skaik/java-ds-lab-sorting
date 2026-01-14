@@ -1,4 +1,4 @@
-# 🔢 Data Structures Lab – Sorting Algorithms (Java)
+<h1 align="center"> 🔢 Data Structures Lab – Sorting Algorithms (Java)</h1>
 
 ![Course](https://img.shields.io/badge/DS%20Lab-Week%207-%2373c2fb)
 ![Language](https://img.shields.io/badge/Java-Source_Code-%23e57373)
