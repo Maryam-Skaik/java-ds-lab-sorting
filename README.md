@@ -12,7 +12,7 @@
 
 ### 🎥 Sorting & Selection Lab Lecture
 
-👉 
+👉 https://youtu.be/yBNendzAZhg
 
 ---
 
