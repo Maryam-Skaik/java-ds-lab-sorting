@@ -1,4 +1,4 @@
-package sorting.assignment_solutions;
+package assignment_solutions;
 
 /**
  * Problem:
